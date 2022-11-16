@@ -24,11 +24,12 @@ If you want to see what stations broadcast in Polar stereo, visit [this page](ht
 For me one day I hope I will be able to receive a real station broadcasting in Polar Stereo
 To remind myself what I could expect, I will write stations I could receive at my location here
 
+```
 RUS	72.920 Mhz	Radio Radonezh
 RUS	66.980 Mhz	Radio Mayak
 RUS	67.130 Mhz	Radio Rossii 	
 UKR	70.970 MHz	UR 2 Radio Promin
- 
+``` 
 # How to install
 Download [dll](https://github.com/veso266/SDRSharp.StereoDecoder/releases/download/1.0/SDRSharp.StereoDecoder.dll) from release page
 ## For latest SDR#
