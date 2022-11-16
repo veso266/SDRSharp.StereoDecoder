@@ -1,0 +1,13 @@
+sdr://178.46.165.91:5556 (Russia)
+
+95.6 Ivolna (PI:7D85)
+
+
+sdr://89.162.39.182:5556 (USA)
+103.6 181.fm - Kickin' Country (PI: F0B6) (Online station, but someone is transmiting in on 103.6, I guess pirate??)
+
+sdr://188.155.13.236:5557 (Germany)
+90.2 SNAVN (PI:4F14)
+
+sdr://143.178.161.73:5555/ (Nederlands)
+95.3,95.5 RADIONL (PI:8421)

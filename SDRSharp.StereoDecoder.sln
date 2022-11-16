@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDRSharp.StereoDecoder", "SDRSharp.StereoDecoder\SDRSharp.StereoDecoder.csproj", "{12C7403A-3C40-482B-82BC-AB859A88D27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDRSharp.StereoDecoder.UnitTests", "SDRSharp.StereoDecoder.UnitTests\SDRSharp.StereoDecoder.UnitTests.csproj", "{2A5CF7A5-1640-4A19-9BBF-73F36528E514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C7403A-3C40-482B-82BC-AB859A88D27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C7403A-3C40-482B-82BC-AB859A88D27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C7403A-3C40-482B-82BC-AB859A88D27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C7403A-3C40-482B-82BC-AB859A88D27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5CF7A5-1640-4A19-9BBF-73F36528E514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5CF7A5-1640-4A19-9BBF-73F36528E514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5CF7A5-1640-4A19-9BBF-73F36528E514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5CF7A5-1640-4A19-9BBF-73F36528E514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD137F8-610B-4EE9-A822-ADC9CA3BF178}
+	EndGlobalSection
+EndGlobal
